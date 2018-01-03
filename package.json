@@ -1,5 +1,5 @@
 {
-  "name": "triangle",
+  "name": "gulp-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gingerlee/triangle.git"
+    "url": "git+https://github.com/gingerlee/gulp-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gingerlee/triangle/issues"
+    "url": "https://github.com/gingerlee/gulp-template/issues"
   },
-  "homepage": "https://github.com/gingerlee/triangle#readme",
+  "homepage": "https://github.com/gingerlee/gulp-template#readme",
   "devDependencies": {
     "browserify": "^14.5.0",
     "gulp": "^3.9.1",
