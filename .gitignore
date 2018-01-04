@@ -3,3 +3,4 @@ node_modules/
 sass-cache/
 *.map
 bower_components/
+build/
