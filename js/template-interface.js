@@ -1,2 +1,1 @@
-let testVar = "test var";
-exports.testModule = testVar;
+import { testVar } from './../js/template.js';
