@@ -1,1 +1,1 @@
-export let testVar = "test var";
+export let testVar = "export working";
